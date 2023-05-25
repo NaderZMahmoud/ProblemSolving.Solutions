@@ -1,0 +1,12 @@
+C:\Users\Nader Zaky\source\repos\Solutions\bin\Debug\net6.0\Solutions.deps.json
+C:\Users\Nader Zaky\source\repos\Solutions\bin\Debug\net6.0\Solutions.dll
+C:\Users\Nader Zaky\source\repos\Solutions\bin\Debug\net6.0\Solutions.pdb
+C:\Users\Nader Zaky\source\repos\Solutions\obj\Debug\net6.0\Solutions.csproj.AssemblyReference.cache
+C:\Users\Nader Zaky\source\repos\Solutions\obj\Debug\net6.0\Solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nader Zaky\source\repos\Solutions\obj\Debug\net6.0\Solutions.AssemblyInfoInputs.cache
+C:\Users\Nader Zaky\source\repos\Solutions\obj\Debug\net6.0\Solutions.AssemblyInfo.cs
+C:\Users\Nader Zaky\source\repos\Solutions\obj\Debug\net6.0\Solutions.csproj.CoreCompileInputs.cache
+C:\Users\Nader Zaky\source\repos\Solutions\obj\Debug\net6.0\Solutions.dll
+C:\Users\Nader Zaky\source\repos\Solutions\obj\Debug\net6.0\refint\Solutions.dll
+C:\Users\Nader Zaky\source\repos\Solutions\obj\Debug\net6.0\Solutions.pdb
+C:\Users\Nader Zaky\source\repos\Solutions\obj\Debug\net6.0\ref\Solutions.dll
